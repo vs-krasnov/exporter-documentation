@@ -8,6 +8,6 @@
 {{ highlightSafeString(block) }}
 
 </code></pre>
-{[ if block.caption ]}
+{[ if block.testcaption ]}
     <p class="caption">{{ block.caption }}</p>
 {[/]}
