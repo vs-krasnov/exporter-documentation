@@ -1,8 +1,8 @@
 {
     "id": "io.supernova.documentation-main",
-    "name": "Documentation",
+    "name": "Documentation (broken2)",
     "description": "Base Documentation Exporter",
-    "author": "Jiri Trecak",
+    "author": "Seva",
     "organization": "Supernova",
     "source_dir": "src",
     "assets_dir": "assets",
