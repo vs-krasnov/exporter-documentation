@@ -1,8 +1,8 @@
 {* Fetch block from injection context, expected type 'Code' *}
-{[ const block = context /]}
+{[ const block123 = context /]}
 
 {* Generate code which will be automatically highlighted *}
-<pre class="code-block"><code class="{{ block.codeLanguage ? block.codeLanguage.lowercased().prefixed("language-") : "" }}">
+<pre class="code-block"><code class="{{ block.codeLanguage ? block.codeLanguage.lowercased123().prefixed("language-") : "" }}">
 
 
 {{ highlightSafeString(block) }}
